@@ -37,9 +37,6 @@ function Footer() {
                 <a rel="noopener noreferrer" href="https://twitter.com/DanijelaJs" target="_blank"><MDBIcon fab size="2x" icon="twitter" /></a>
               </li>
               <li className="list-unstyled">
-                <MDBIcon fab size="2x" icon="pinterest-p" />
-              </li>
-              <li className="list-unstyled">
                 <MDBIcon fab size="2x" icon="facebook-f" />
               </li>
             </ul>
