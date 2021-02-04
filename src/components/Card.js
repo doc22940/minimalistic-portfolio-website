@@ -31,7 +31,7 @@ class Card extends React.Component  {
           <MDBCardBody id="border">
             <MDBCardTitle className="text-white">Photoshoots</MDBCardTitle>
             <MDBCardText>
-              Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.
+              Im a woman, I shop till I drop
             </MDBCardText>
             <MDBBtn  outline color="white">Book</MDBBtn>
           </MDBCardBody>
@@ -46,7 +46,7 @@ class Card extends React.Component  {
           <MDBCardBody id="border">
             <MDBCardTitle className="text-white">Planned outfits</MDBCardTitle>
             <MDBCardText>
-             Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.
+             I wear tights and a lovely colorful coursette.
             </MDBCardText>
          <MDBBtn  outline color="white">Book</MDBBtn>
           </MDBCardBody>
