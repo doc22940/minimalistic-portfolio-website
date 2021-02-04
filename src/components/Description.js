@@ -8,14 +8,7 @@ function Description (){
       <MDBAnimation reveal type="fadeInLeft">
         <MDBCol >
         <h3>My Services</h3>
-        <p>Ambitioni dedisse scripsisse iudicaretur. Cras mattis iudicium purus sit amet fermentum.
-        Donec sed odio operae, eu vulputate felis rhoncus. Praeterea iter est quasdam res quas ex communi. At nos hinc posthac, sitientis
-        piros Afros. Petierunt uti sibi concilium totius Galliae in diem certam indicere. Cras mattis iudicium
-        purus sit amet fermentum.  Donec sed odio operae, eu vulputate felis rhoncus. Praeterea iter est quasdam res quas ex communi. At nos hinc posthac, sitientis
-        piros Afros. Petierunt uti sibi concilium totius Galliae in diem certam indicere. Cras mattis iudicium
-        purus sit amet fermentum.Ambitioni dedisse scripsisse iudicaretur. Cras mattis iudicium purus sit amet fermentum.
-        Donec sed odio operae, eu vulputate felis rhoncus. Praeterea iter est quasdam res quas ex communi. At nos hinc posthac, sitientis
-        piros Afros. Petierunt uti sibi concilium totius Galliae in diem certam indicere.</p></MDBCol>
+        <p>I fight crime.  I kick ass and take names.  Im a fighter not a lover</p></MDBCol>
         </MDBAnimation>
       </MDBRow>
     </MDBContainer>
