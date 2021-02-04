@@ -10,20 +10,20 @@ function Footer() {
     {/* CONTACT TEXT */}
             <h2 style={{marginLeft:15}} className="title">Contact</h2>
             <p style={{marginLeft:15}}>
-              Feel free to contact me, and make sure to follow me on all my social media accounts.
+              Feel free to contact me, with the signal.
             </p>
           </MDBCol>
         {/* ADRESS*/}
           <MDBCol  md="4 pr-4">
             <ul>
               <li className="list-unstyled">
-                <h5><strong>Telephone</strong>: 111/2456-245</h5>
+                <h5><strong>Telephone</strong>: 1-800-wonder</h5>
               </li>
               <li className="list-unstyled">
-                    <h5><strong>Adress</strong>: 123 Example, USA Example</h5>
+                    <h5><strong>Adress</strong>: Fighter Town, USA</h5>
               </li>
               <li className="list-unstyled">
-                     <h5><strong>E-mail</strong>: example@mail.com</h5>
+                     <h5><strong>E-mail</strong>: wonder@woman.com</h5>
               </li>
             </ul>
           </MDBCol>
