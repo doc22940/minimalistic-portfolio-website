@@ -11,7 +11,7 @@ class Header extends React.Component {
 
                    {/*TITLE*/}
                      <MDBAnimation type="fadeIn" duration="3s">
-                        <h1 style={{marginTop: "20vh"}} className="h1-reponsive white-text text-uppercase font-weight-bold mb-0 pt-md-5 pt-5 ">Wonder Woman</h1>
+                        <h1 style={{marginTop: "20vh"}} className="h1-reponsive red-text text-uppercase font-weight-bold mb-0 pt-md-5 pt-5 ">Wonder Woman</h1>
                      </MDBAnimation>
                       {/*LINE*/}
                      <MDBAnimation type="fadeInLeft" duration="1s">
@@ -21,7 +21,7 @@ class Header extends React.Component {
                      {/*SUBTITLE*/}
                      
                     <MDBAnimation type="fadeIn" duration="2s">
-                    <h5 className="mb-4 white-text " style={{fontSize:35}} id="font"><strong>crime fighter</strong></h5>
+                    <h5 className="mb-4 blue-text " style={{fontSize:35}} id="font"><strong>crime fighter</strong></h5>
                      </MDBAnimation>
                   </MDBCol>
                 </MDBRow>
